@@ -1,3 +1,3 @@
 # film_app
 
-A flutter film app that uses TMDB api
+A flutter film project that uses TMDB api
